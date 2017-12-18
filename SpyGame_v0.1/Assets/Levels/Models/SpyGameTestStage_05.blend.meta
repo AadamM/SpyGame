@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 3d1d806386593514fb1512b88f6b50af
-timeCreated: 1513479772
+guid: 0515a16449168b149a62e136ba9ee501
+timeCreated: 1513483361
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -18,13 +18,6 @@ ModelImporter:
     100020: Stage
     100022: Tunnels
     100024: UpperBalcony
-    100026: Cube
-    100028: Plane
-    100030: 0_Stage
-    100032: RoofRoom
-    100034: z_ScrapMaze
-    100036: z_ScrapRoom
-    100038: Roof
     400000: CircularPlatform
     400002: Maze
     400004: Pillar_000
@@ -38,13 +31,6 @@ ModelImporter:
     400020: Stage
     400022: Tunnels
     400024: UpperBalcony
-    400026: Cube
-    400028: Plane
-    400030: 0_Stage
-    400032: RoofRoom
-    400034: z_ScrapMaze
-    400036: z_ScrapRoom
-    400038: Roof
     2300000: CircularPlatform
     2300002: Maze
     2300004: Pillar_000
@@ -57,13 +43,6 @@ ModelImporter:
     2300018: Stage
     2300020: Tunnels
     2300022: UpperBalcony
-    2300024: Cube
-    2300026: Plane
-    2300028: 0_Stage
-    2300030: RoofRoom
-    2300032: z_ScrapMaze
-    2300034: z_ScrapRoom
-    2300036: Roof
     3300000: CircularPlatform
     3300002: Maze
     3300004: Pillar_000
@@ -76,13 +55,6 @@ ModelImporter:
     3300018: Stage
     3300020: Tunnels
     3300022: UpperBalcony
-    3300024: Cube
-    3300026: Plane
-    3300028: 0_Stage
-    3300030: RoofRoom
-    3300032: z_ScrapMaze
-    3300034: z_ScrapRoom
-    3300036: Roof
     4300000: CircularPlatform
     4300002: UpperBalcony
     4300004: RooflessRoom
@@ -95,32 +67,6 @@ ModelImporter:
     4300018: Maze
     4300020: Pyramid
     4300022: Stage
-    4300024: Cube
-    4300026: Plane
-    4300028: z_ScrapMaze
-    4300030: RoofRoom
-    4300032: z_ScrapRoom
-    4300034: 0_Stage
-    4300036: Roof
-    6400000: CircularPlatform
-    6400002: Maze
-    6400004: Pillar_000
-    6400006: Pillar_001
-    6400008: Pillar_002
-    6400010: Pyramid
-    6400012: Pyramid_Walkway
-    6400014: RooflessRoom
-    6400016: Room
-    6400018: Stage
-    6400020: Tunnels
-    6400022: UpperBalcony
-    6400024: Cube
-    6400026: Plane
-    6400028: 0_Stage
-    6400030: RoofRoom
-    6400032: z_ScrapMaze
-    6400034: z_ScrapRoom
-    6400036: Roof
     7400000: Default Take
     9500000: //RootNode
   externalObjects:
@@ -128,7 +74,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: unnamed
-    second: {fileID: 2100000, guid: 81805438d55bc5a4eb169112faf84802, type: 2}
+    second: {fileID: 2100000, guid: 9b64bd965b15eff408a6721b7c25d691, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -160,7 +106,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -177,8 +123,8 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
-    normalSmoothAngle: 0
-    normalImportMode: 1
+    normalSmoothAngle: 60
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
   importAnimation: 1
